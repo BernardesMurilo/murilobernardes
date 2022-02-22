@@ -2,7 +2,7 @@
 
 📚 Estudos voltados a Data Analytics
 
-💻 Aprendendo e aperfeiçoando: Python, SQL, Power BI, Excel
+💻 Aprendendo e aperfeiçoando: Java, Python, SQL, Power BI
 
 
 <div align="center">
